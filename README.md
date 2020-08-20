@@ -13,7 +13,7 @@ Two critical documents below:
 
 
 ## 1. How to succeed in this course
-
+![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
 To succeed in this course you should:
 
 1. Routinely read the material before class time. This will allow you to ask and participate.
