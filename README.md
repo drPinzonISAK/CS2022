@@ -7,9 +7,9 @@ Computer Science is as an experimental science. From the early days with analog 
 
 Two critical documents below:
 
-"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate."[IB Computer Science Guide 2017](CompSciGuide.pdf)
+"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate." [IB Computer Science Guide 2017](CompSciGuide.pdf)
 
-"Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  (Wing, Jeanette M. 2006)[https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf]
+"Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  [(Wing, Jeanette M. 2006)](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
 
 ## 1. How to succeed in this course
