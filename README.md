@@ -3,7 +3,12 @@
 ## UWC ISAK COMPUTER SCIENCE 2020
 Welcome! 
 
-Computer science is an experiemtal science and a tool for dricing innovation. We will engage in authentic projects 
+Computer Science is as an experimental science. From the early days with analog computers breaking war codes [Turing] to the modern time with virtual reality and cryptocurrencies, Computer Science has benn at forefront of innovation transforming our lifes. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
+
+"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate."  Computer Science Guide 2017.
+
+"Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  (Wing, Jeanette M. (2006). "Computational thinking" (PDF). Communications of the ACM. 49(3): 33)
+
 
 ## 1. How to succeed in this course
 
@@ -51,6 +56,13 @@ Paper 2 is the option from the syllabus among:
 
 ## 4. Tools we will use
 
+![](jetbrains.png)
+We will use the Integrated Development Editors (IDE) from JetBrains. These are professional grade software tools free for UWC Students. From all the different favours JetBrain I recommend:
 
+1. [Pycharm](https://www.jetbrains.com/pycharm-edu/): Editor for Python
+1. [WebStorm](https://www.jetbrains.com/webstorm/): Editor for Web Development
+1. [Intelli J IDEA](https://www.jetbrains.com/idea-edu/): Editor for Java 
+
+Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your UWC ISAK email account. Then download the tools and install them in your computer. If you are using a school's laptop, you will have to find Rie-san in the IT office to get the password.
 
 ## 5. Resources
