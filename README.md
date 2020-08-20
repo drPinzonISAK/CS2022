@@ -17,7 +17,7 @@ Two critical documents below:
 To succeed in this course you should:
 
 1. Routinely read the material before class time. This will allow you to ask and participate.
-1. Practice your programming and solving skills. Go beyond the exercises assigned and develop mastery.
+1. Practice your Computational Thinking Skills by solving the programing challenges. Go beyond the exercises assigned and develop mastery.
 1. Complete the assignments.
 
 ## 2. The Syllabus
@@ -31,7 +31,6 @@ The topics that must be studied, including some practical work, are:
 * Topic 4: Computational thinking, problem-solving and programming (45 hours)
 
 HL extension
-
 The topics that must be studied, including some practical work, are:
 * Topic 5: Abstract data structures (23 hours)
 * Topic 6: Resource management (8 hours)
