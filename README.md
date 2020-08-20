@@ -3,7 +3,7 @@
 ## UWC ISAK COMPUTER SCIENCE 2020
 Welcome! 
 
-Computer Science is as an experimental science. From the early days with analog computers breaking war codes [Turing] to the modern time with virtual reality and cryptocurrencies, Computer Science has benn at forefront of innovation transforming our lifes. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
+Computer Science is as an experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning or antificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at forefront of innovation transforming our lifes. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
 
 "Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate."  Computer Science Guide 2017.
 
@@ -66,3 +66,5 @@ We will use the Integrated Development Editors (IDE) from JetBrains. These are p
 Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your UWC ISAK email account. Then download the tools and install them in your computer. If you are using a school's laptop, you will have to find Rie-san in the IT office to get the password.
 
 ## 5. Resources
+
+
