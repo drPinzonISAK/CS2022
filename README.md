@@ -3,9 +3,9 @@
 ## UWC ISAK COMPUTER SCIENCE 2020
 Welcome! 
 
-Computer Science is as an experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or antificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at forefront of innovation transforming our lifes. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
+Computer Science is as experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or artificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at the forefront of innovation transforming our lives. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
 
-Two critical documents below:
+In a concise way:
 
 "Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate." [IB Computer Science Guide 2017](CompSciGuide.pdf)
 
@@ -16,9 +16,9 @@ Two critical documents below:
 ![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
 To succeed in this course you should:
 
-1. Routinely read the material before class time. This will allow you to ask and participate.
-1. Practice your Computational Thinking Skills by solving the programing challenges. Go beyond the exercises assigned and develop mastery.
-1. Complete the assignments.
+1. Routinely read the material before class. This will allow you to ask questions and participate.
+1. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
+1. Complete the assignments and deadlines.
 
 ## 2. The Syllabus
 
@@ -35,6 +35,8 @@ The topics that must be studied, including some practical work, are:
 * Topic 5: Abstract data structures (23 hours)
 * Topic 6: Resource management (8 hours)
 * Topic 7: Control (14 hours)
+
+[See more](syllabus.md).
 
 ## 3. The Assessment
 
