@@ -5,9 +5,11 @@ Welcome!
 
 Computer Science is as an experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or antificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at forefront of innovation transforming our lifes. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
 
-"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate."  Computer Science Guide 2017.
+Two critical documents below:
 
-"Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  (Wing, Jeanette M. (2006). "Computational thinking" (PDF). Communications of the ACM. 49(3): 33)
+"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate."[IB Computer Science Guide 2017](CompSciGuide.pdf)
+
+"Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  (Wing, Jeanette M. 2006)[https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf]
 
 
 ## 1. How to succeed in this course
