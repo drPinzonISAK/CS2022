@@ -41,7 +41,7 @@
 | 1.2.14                  | Identify methods that can be used to improve the accessibility of systems.                                                                                                     |
 | 1.2.15                  | Identify a range of usability problems that can occur in a system.                                                                                                             |
 | 1.2.16                  | Discuss the moral, ethical, social, economic and environmental implications of the interaction between humans and machines.                                                    |
-| Topic                   | Computer organization (6 hours)                                                                                                                                                |
+| **Topic**                   | **Computer organization (6 hours)**                                                                                                                                              |
 | 2.1                     | Computer organization (6 hours)                                                                                                                                                |
 |                         | **Computer architecture**                                                                                                                                                          |
 | 2.1.1                   | Outline the architecture of the central processing unit (CPU) and the functions of the arithmetic logic unit (ALU) and the control unit (CU) and the registers within the CPU. |
