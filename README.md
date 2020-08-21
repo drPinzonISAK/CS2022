@@ -13,8 +13,10 @@ In a concise way:
 
 See some examples from last's year G11 project work here:
 
-1. Unit 3: Creating a Graphical User Interface for a real client. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
-![](lydia.png)
+1. Unit 3: Creating a Graphical User Interface for a real client with Python. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
+![](Lydia.png)
+1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
+![](Alex.png)
 
 ## 1. How to succeed in this course
 ![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
