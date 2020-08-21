@@ -11,6 +11,10 @@ In a concise way:
 
 "Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  [(Wing, Jeanette M. 2006)](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
+See some examples from last's year G11 project work here:
+
+1. Unit 3: Creating a Graphical User Interface for a real client. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
+![](lydia.png)
 
 ## 1. How to succeed in this course
 ![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
