@@ -30,6 +30,7 @@ The topics that must be studied, including some practical work, are:
 * Topic 2: Computer organization (6 hours)
 ![](Topic%202.png)
 * Topic 3: Networks (9 hours)
+![](Topic3.png)
 * Topic 4: Computational thinking, problem-solving and programming (45 hours)
 
 HL extension
