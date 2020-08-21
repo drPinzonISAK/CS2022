@@ -133,7 +133,7 @@
 | 4.3.11                  | Construct algorithms using the access methods of a collection.                                                                                                                 |
 | 4.3.12                  | Discuss the need for sub-programmes and collections within programmed solutions.                                                                                               |
 | 4.3.13                  | Construct algorithms using pre-defined sub-programmes, one-dimensional arrays and/or collections.                                                                              |
-| **HL extension (45 hours)** |                                                                                                                                                                                |
+|  |   **HL extension (45 hours)**                                                                                                                                                                            |
 | **Topic 5**             | **Abstract data structures (23 hours)**                                                                                                                                            |
 | 5.1                     | Abstract data structures (23 hours)                                                                                                                                            |
 |                         | **Thinking recursively**                                                                                                                                                           |
