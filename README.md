@@ -39,6 +39,8 @@ The topics that must be studied, including some practical work, are:
 
 * Topic 4: Computational thinking, problem-solving and programming (45 hours)
 
+![](Topic%204.png)
+
 HL extension
 The topics that must be studied, including some practical work, are:
 * Topic 5: Abstract data structures (23 hours)
