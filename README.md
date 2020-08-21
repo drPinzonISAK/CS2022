@@ -16,7 +16,9 @@ See some examples from last's year G11 project work here:
 1. Unit 3: Creating a Graphical User Interface for a real client with Python. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
 ![](Lydia.png)
 1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
-![](Alex.png)
+![](Alex.jpg)
+1. Uni 1: A car rental application in basic BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
+![](lauricenia.png)
 
 ## 1. How to succeed in this course
 ![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
