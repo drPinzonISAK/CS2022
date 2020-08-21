@@ -42,28 +42,26 @@
 | 1.2.15                  | Identify a range of usability problems that can occur in a system.                                                                                                             |
 | 1.2.16                  | Discuss the moral, ethical, social, economic and environmental implications of the interaction between humans and machines.                                                    |
 | **Topic**                   | **Computer organization (6 hours)**                                                                                                                                              |
-| 2.1                     | Computer organization (6 hours)                                                                                                                                                |
-|                         | **Computer architecture**                                                                                                                                                          |
+| 2.1                     | Computer organization and architecture (6 hours)                                                                                                                                                |
 | 2.1.1                   | Outline the architecture of the central processing unit (CPU) and the functions of the arithmetic logic unit (ALU) and the control unit (CU) and the registers within the CPU. |
 | 2.1.2                   | Describe primary memory.                                                                                                                                                       |
 | 2.1.3                   | Explain the use of cache memory.                                                                                                                                               |
 | 2.1.4                   | Explain the machine instruction cycle.                                                                                                                                         |
 |                         | **Secondary memory**                                                                                                                                                               |
 | 2.1.5                   | Identify the need for persistent storage.                                                                                                                                      |
-|                         | Operating systems and application systems                                                                                                                                      |
+|                         | **Operating systems and application systems**                                                                                                                                      |
 | 2.1.6                   | Describe the main functions of an operating system.                                                                                                                            |
 | 2.1.7                   | Outline the use of a range of application software.                                                                                                                            |
 | 2.1.8                   | Identify common features of applications.                                                                                                                                      |
-|                         | Binary representation                                                                                                                                                          |
+|                         | **Binary representation**                                                                                                                                                          |
 | 2.1.9                   | Define the terms: bit, byte, binary, denary/decimal, hexadecimal.                                                                                                              |
 | 2.1.10                  | Outline the way in which data is represented in the computer.                                                                                                                  |
 |                         | **Simple logic gates**                                                                                                                                                             |
 | 2.1.11                  | Define the Boolean operators: AND, OR, NOT, NAND, NOR and XOR.                                                                                                                 |
 | 2.1.12                  | Construct truth tables using the above operators.                                                                                                                              |
 | 2.1.13                  | Construct a logic diagram using AND, OR, NOT, NAND, NOR and XOR gates.                                                                                                         |
-| Topic 3                 | Networks (9 hours)                                                                                                                                                             |
-| 3.1                     | Networks (9 hours)                                                                                                                                                             |
-|                         | **Network fundamentals**                                                                                                                                                           |
+| **Topic 3**             | **Networks (9 hours)**                                                                                                                                                             |
+|3.1                      | **Network fundamentals**                                                                                                                                                           |
 | 3.1.1                   | Identify different types of networks.                                                                                                                                          |
 | 3.1.2                   | Outline the importance of standards in the construction of networks.                                                                                                           |
 | 3.1.3                   | Describe how communication over networks is broken down into different layers.                                                                                                 |
@@ -82,7 +80,7 @@
 | 3.1.14                  | Describe the characteristics of wireless networks.                                                                                                                             |
 | 3.1.15                  | Describe the different methods of network security.                                                                                                                            |
 | 3.1.16                  | Evaluate the advantages and disadvantages of each method of network security.                                                                                                  |
-| Topic 4                 | Computational thinking, problem-solving and programming (45 hours)                                                                                                             |
+| **Topic 4**             | **Computational thinking, problem-solving and programming (45 hours)**                                                                                                             |
 | 4.1                     | General principles (10 hours)                                                                                                                                                  |
 |                         | **Thinking procedurally**                                                                                                                                                          |
 | 4.1.1                   | Identify the procedure appropriate to solving a problem.                                                                                                                       |
@@ -100,7 +98,7 @@
 | 4.1.11                  | Explain the need for pre-conditions when executing an algorithm.                                                                                                               |
 | 4.1.12                  | Outline the pre- and post-conditions to a specified problem.                                                                                                                   |
 | 4.1.13                  | Identify exceptions that need to be considered in a specified problem solution.                                                                                                |
-|                         | Thinking concurrently                                                                                                                                                          |
+|                         | **Thinking concurrently**                                                                                                                                                          |
 | 4.1.14                  | Identify the parts of a solution that could be implemented concurrently.                                                                                                       |
 | 4.1.15                  | Describe how concurrent processing can be used to solve a problem.                                                                                                             |
 | 4.1.16                  | Evaluate the decision to use concurrent processing in solving a problem.                                                                                                       |
@@ -136,7 +134,7 @@
 | 4.3.12                  | Discuss the need for sub-programmes and collections within programmed solutions.                                                                                               |
 | 4.3.13                  | Construct algorithms using pre-defined sub-programmes, one-dimensional arrays and/or collections.                                                                              |
 | **HL extension (45 hours)** |                                                                                                                                                                                |
-| Topic 5                 | Abstract data structures (23 hours)                                                                                                                                            |
+| **Topic 5**             | **Abstract data structures (23 hours)**                                                                                                                                            |
 | 5.1                     | Abstract data structures (23 hours)                                                                                                                                            |
 |                         | **Thinking recursively**                                                                                                                                                           |
 | 5.1.1                   | Identify a situation that requires the use of recursive thinking.                                                                                                              |
@@ -164,8 +162,7 @@
 | 5.1.19                  | Compare the use of static and dynamic data structures.                                                                                                                         |
 | 5.1.20                  | Suggest a suitable structure for a given situation.                                                                                                                            |
 | Topic 6                 | Resource management (8 hours)                                                                                                                                                  |
-| 6.1                     | Resource management (8 hours)                                                                                                                                                  |
-|                         | **System resources **                                                                                                                                                              |
+|                         | **System resources**                                                                                                                                                              |
 | 6.1.1                   | Identify the resources that need to be managed within a computer system.                                                                                                       |
 | 6.1.2                   | Evaluate the resources available in a variety of computer systems.                                                                                                             |
 | 6.1.3                   | Identify the limitations of a range of resources in a specified computer system.                                                                                               |
@@ -176,7 +173,6 @@
 | 6.1.8                   | Discuss the advantages of producing a dedicated operating system for a device.                                                                                                 |
 | 6.1.9                   | Outline how an operating system hides the complexity of the hardware from users and applications.                                                                              |
 | Topic 7                 | Control (14 hours)                                                                                                                                                             |
-| 7.1                     | Control (14 hours)                                                                                                                                                             |
 |                         | **Centralized control systems**                                                                                                                                                    |
 | 7.1.1                   | Discuss a range of control systems.                                                                                                                                            |
 | 7.1.2                   | Outline the uses of microprocessors and sensor input in control systems.                                                                                                       |
