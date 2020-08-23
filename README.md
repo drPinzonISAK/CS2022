@@ -76,6 +76,8 @@ Paper 2 is the option from the syllabus among:
 * Option C: Web science
 * Option D: Object-oriented programming (OOP)
 
+[See here un specimen of these three papers.](specimenPapers.pdf)
+
 ## 4. Tools we will use
 
 ![](jetbrains.png)
