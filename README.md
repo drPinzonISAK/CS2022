@@ -122,7 +122,9 @@ The other tool we will use all the time is [GitHub](github.com). GitHub is a pro
 
 1. Create a free account at github with your UWC ISAK email.
 1. Create an empty repository with name Unit 1.
+![](createRepo.png)
 1. Share with me the link via email.
+![](linkRepo.png)
 
 ### Snakify
 [Snakify](https://snakify.org/en/) is an excellent tool online where you can develop your programming skills. In the length of G11 you will solve about 200 programming exercises on this website. I will be able to track your progress and give your feedback in this website.
