@@ -3,7 +3,7 @@
 ## UWC ISAK COMPUTER SCIENCE 2020
 Welcome! 
 
-Computer Science is as experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or artificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at the forefront of innovation transforming our lives. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
+Computer Science is an experimental science. From the early days with analog computers breaking war codes [(A.M. Turing)](https://fermatslibrary.com/s/intelligent-machinery-a-heretical-theory) to the modern times with virtual/augmented reality [(Hidden Creative 2010)](https://www.youtube.com/watch?v=tnRJaHZH9lo), cryptocurrencies [(VICE 2019)](https://www.youtube.com/watch?v=u-vrdPtZVXc&t=252s), machine learning [(Science Time 2020)](https://www.youtube.com/watch?v=NjVIQUE8Sgk) or artificial intelligence [(WSJ 2019)](https://www.youtube.com/watch?v=JMLsHI8aV0g) [(DW 2020)](https://www.youtube.com/watch?v=-ePZ7OdY-Dw), Computer Science has been at the forefront of innovation transforming our lives. At UWC ISAK Japan, the study of Computer Science is pursued using a variety of projects exploring connections with other fields including Art, Neuroscience, Economics, Data Science, and Biology. These projects provide an authentic environment where all the participants can master the syllabus, develop their Computational Thinking Skills while discovering modern technologies.  
 
 In a concise way:
 
@@ -11,13 +11,13 @@ In a concise way:
 
 "Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  [(Wing, Jeanette M. 2006)](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
-See some examples from last's year G11 project work here:
+Last year in G11 we explored three different projects including the creation of a car rental application, an interplanetary communication system, and a peer-to-peer software development. Using these projects we explored in a non linear way the [syllabus of CS](syllabus.md). See some results from these projects here:
 
 1. Unit 3: Creating a Graphical User Interface for a real client with Python. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
 ![](Lydia.png)
 1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
 ![](Alex.jpg)
-1. Uni 1: A car rental application in basic BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
+1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
 ![](lauricenia.png)
 
 ## 1. How to succeed in this course
@@ -77,6 +77,20 @@ Paper 2 is the option from the syllabus among:
 * Option D: Object-oriented programming (OOP)
 
 [See here un specimen of these three papers.](specimenPapers.pdf)
+
+The Internal Assessment (IA) is your opportunity of developing a software application for a real client on a topic of your interest. The rubric for this component (**Table 2**) includes 5 parts:
+
+**Table 2.** Rubric for the CS IA
+
+| Assessment Component                          | Marks        | 
+|-----------------------------------------------|--------------|
+| Criterion A: Planning                         | 6            |
+| Criterion B: Record of Tasks (RoT) and Design | 6            |
+| Criterion C: Development                      | 12           |
+| Criterion D: Functionality (Video)            | 4            |
+| Criterion E: Evaluation                       | 6            |
+
+You will get use to read this rubric as we will be using it constantly for the projects explored in every Unit. See the detailed description of the [rubric for the IA here](IArubric.pdf)
 
 ## 4. Tools we will use
 
