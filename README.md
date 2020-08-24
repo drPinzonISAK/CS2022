@@ -121,9 +121,9 @@ Procedure to install these tools:
 The other tool we will use all the time is [GitHub](github.com). GitHub is a professional drive online that software developers use to store their code and collaborate with their teams.
 
 1. Create a free account at github with your UWC ISAK email.
-1. Create an empty repository with name Unit 1.
-![](createRepo.png)
-1. Share with me the link via email.
+1. Create a new repository with name Unit 1. A repository is the name for folder in GitHub.
+![](createRepoUnit.png)
+1. Send me a **nice** email with the link to your repository.
 ![](linkRepo.png)
 
 ### Snakify
