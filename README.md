@@ -13,6 +13,7 @@ In a concise way:
 
 Last year in G11 we explored three different projects including the creation of a car rental application, an interplanetary communication system, and a peer-to-peer software development. Using these projects we explored in a non linear way the [syllabus of CS](syllabus.md). See some results from these projects here:
 
+1. [Video Unit 3 report by Alex Nygaard:](https://www.youtube.com/watch?v=jgiC-1BM9TQ)
 1. Unit 3: Creating a Graphical User Interface for a real client with Python. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
 ![](Lydia.png)
 1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
