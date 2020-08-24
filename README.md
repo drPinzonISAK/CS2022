@@ -148,4 +148,5 @@ Here are some existing websites related to IB DP Computer Science that will help
 Inspiring and successful Computer Scientist tell us why learning CS is important:
 
 1. [Computer science is for everyone by Code.org creator and Hadi Partovi](https://www.youtube.com/watch?v=FpMNs7H24X0)
-1. []
+1. [Computer Science is Changing Everything by Code.org](https://www.youtube.com/watch?v=QvyTEx1wyOY)
+1. [The map of Computer Science by the Domain of Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
