@@ -142,3 +142,10 @@ Here are some existing websites related to IB DP Computer Science that will help
 1. [CompSci Hub by Chris Coetzee, Dartford Grammar School, UK](https://ib.compscihub.net/)
 1. [Computer Science Wiki by Bill MacKenty, American School of Warsaw](https://computersciencewiki.org/index.php/Welcome)
 1. [Wiki books by several author](https://en.wikibooks.org/wiki/IB/Group_4/Computer_Science)
+
+## 6. Why studying CS?
+
+Inspiring and successful Computer Scientist tell us why learning CS is important:
+
+1. [Computer science is for everyone by Code.org creator and Hadi Partovi](https://www.youtube.com/watch?v=FpMNs7H24X0)
+1. []
