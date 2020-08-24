@@ -111,6 +111,7 @@ Procedure to install these tools:
 ![](studentLicense.png)
 1. Download the tools and install them in your computer.
 1. When the login window appears for the license, use your email address.
+
 ![](login.png)
 
 **Note**If you are using a school's laptop, you will have to find Rie-san in the IT office and ask her to create the "TEST account for Dr. Ruben". Then, I can authorise the installation.
