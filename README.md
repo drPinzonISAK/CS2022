@@ -59,6 +59,8 @@ The topics that must be studied, including some practical work, are:
 
 ## 3. The Assessment
 
+The assessment of the IB Computer Science course is detailed in **Table 1**. In our classroom we will use the rubric for CS IA (**Table 2**) to assess the projects proposed for each unit during the year. In addition we will have a combination of ①　mock papers, ②　quizzes, and ③　programming assignments to obtain a proper sample of your growth. The Predicted Grade (PG) is derived from all these components. 
+
 **Table 1.** Description of the assessment components for SL and HL
 
 | Assessment Component                    | Weighting SL | Weighting HL |
@@ -95,6 +97,7 @@ You will get use to read this rubric as we will be using it constantly for the p
 ## 4. Tools we will use
 
 ![](jetbrains.png)
+
 We will use the Integrated Development Editors (IDE) from JetBrains. These are professional grade software tools free for UWC Students. From all the different favours JetBrain I recommend:
 
 1. [Pycharm](https://www.jetbrains.com/pycharm-edu/): Editor for Python
@@ -105,4 +108,8 @@ Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your 
 
 ## 5. Resources
 
+Here are some existing websites related to IB CS that will help your navigating the syllabus:
 
+1. [CompSci Hub by Chris Coetzee, Dartford Grammar School, UK](https://ib.compscihub.net/)
+1. [Computer Science Wiki by Bill MacKenty, American School of Warsaw](https://computersciencewiki.org/index.php/Welcome)
+1. [Wiki books by several author](https://en.wikibooks.org/wiki/IB/Group_4/Computer_Science)
