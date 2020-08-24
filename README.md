@@ -100,11 +100,17 @@ You will get use to read this rubric as we will be using it constantly for the p
 
 We will use the Integrated Development Editors (IDE) from JetBrains. These are professional grade software tools free for UWC Students. From all the different favours JetBrain I recommend:
 
-1. [Pycharm](https://www.jetbrains.com/pycharm-edu/): Editor for Python
+1. [Pycharm Edu](https://www.jetbrains.com/pycharm-edu/): Editor for Python
 1. [WebStorm](https://www.jetbrains.com/webstorm/): Editor for Web Development
 1. [Intelli J IDEA](https://www.jetbrains.com/idea-edu/): Editor for Java 
 
-Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your UWC ISAK email account. Then download the tools and install them in your computer. If you are using a school's laptop, you will have to find Rie-san in the IT office to get the password.
+Procedure to install these tools:
+
+1. Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your UWC ISAK email account. 
+1. Apply for a student free license.
+![](studentLicense.png)
+1. Download the tools and install them in your computer.
+1. When the login window appears for the license, use your email address and If you are using a school's laptop, you will have to find Rie-san in the IT office to get the password.
 
 ## 5. Resources
 
