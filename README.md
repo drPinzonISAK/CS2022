@@ -110,7 +110,17 @@ Procedure to install these tools:
 1. Apply for a student free license.
 ![](studentLicense.png)
 1. Download the tools and install them in your computer.
-1. When the login window appears for the license, use your email address and If you are using a school's laptop, you will have to find Rie-san in the IT office to get the password.
+1. When the login window appears for the license, use your email address.
+![](studentLicense.png)
+
+**Note**If you are using a school's laptop, you will have to find Rie-san in the IT office and ask her to create the "TEST account for Dr. Ruben". Then, I can authorise the installation.
+
+### GitHub
+The other tool we will use all the time is GitHub. GitHub is a professional drive online that software developers use to store their code and collaborate with their teams.
+
+1. Create a free account at github with your UWC ISAK email.
+1. Create an empty repository 
+
 
 ## 5. Resources
 
