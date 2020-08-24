@@ -111,15 +111,23 @@ Procedure to install these tools:
 ![](studentLicense.png)
 1. Download the tools and install them in your computer.
 1. When the login window appears for the license, use your email address.
-![](studentLicense.png)
+![](login.png)
 
 **Note**If you are using a school's laptop, you will have to find Rie-san in the IT office and ask her to create the "TEST account for Dr. Ruben". Then, I can authorise the installation.
 
 ### GitHub
+![](github.png)
+
 The other tool we will use all the time is GitHub. GitHub is a professional drive online that software developers use to store their code and collaborate with their teams.
 
 1. Create a free account at github with your UWC ISAK email.
 1. Create an empty repository 
+
+### Snakify
+[Snakify](https://snakify.org/en/) is an excellent tool online where you can develop your programming skills. In the length of G11 you will solve about 200 programming exercises on this website. I will be able to track your progress and give your feedback in this website.
+
+1. Create a free account as a Student.
+1. Add me as a teacher with the email address: ruben.pinzon@uwcisak.jp
 
 
 ## 5. Resources
