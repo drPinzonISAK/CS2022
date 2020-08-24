@@ -108,7 +108,7 @@ Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your 
 
 ## 5. Resources
 
-Here are some existing websites related to IB CS that will help your navigating the syllabus:
+Here are some existing websites related to IB DP Computer Science that will help you navigating the syllabus. They are a gold mine.
 
 1. [CompSci Hub by Chris Coetzee, Dartford Grammar School, UK](https://ib.compscihub.net/)
 1. [Computer Science Wiki by Bill MacKenty, American School of Warsaw](https://computersciencewiki.org/index.php/Welcome)
