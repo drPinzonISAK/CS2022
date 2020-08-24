@@ -21,7 +21,7 @@ Last year in G11 we explored three different projects including the creation of 
 1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
 ![](lauricenia.png)
 
-## 1. How to succeed in this course
+## 1. 🔥 How to succeed in this course
 ![](https://github.com/drPinzonISAK/CS2020/blob/master/successImage.jpg)
 To succeed in this course you should:
 
@@ -95,7 +95,7 @@ The Internal Assessment (IA) is your opportunity of developing a software applic
 
 You will get use to read this rubric as we will be using it constantly for the projects explored in every Unit. See the detailed description of the [rubric for the IA here](IArubric.pdf)
 
-## 4. Tools we will use
+## 4. 🔥 Tools we will use
 
 ![](jetbrains.png)
 
