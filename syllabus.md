@@ -2,7 +2,7 @@
 
 | **Topic 1**             | **System fundamentals (20 hours)**                                                                                                                                                 |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.1                     | Systems in organizations (10 hours)                                                                                                                                            |
+| 1.1                     | **Systems in organizations (10 hours)**                                                                                                                                            |
 |                         | **Planning and system installation**                                                                                                                                              |
 | 1.1.1                   | Identify the context for which a new system is planned.                                                                                                                        |
 | 1.1.2                   | Describe the need for change management.                                                                                                                                       |
@@ -21,8 +21,8 @@
 | 1.1.13                  | Describe a range of methods that can be used to prevent data loss.                                                                                                             |
 |                         | **Software deployment**                                                                                                                                                            |
 | 1.1.14                  | Describe strategies for managing releases and updates.                                                                                                                         |
-| 1.2                     | System design basics (10 hours)                                                                                                                                                |
-|                         | Components of a computer system                                                                                                                                                |
+| 1.2                     | **System design basics (10 hours)**                                                                                                                                                |
+|                         | **Components of a computer system**                                                                                                                                                |
 | 1.2.1                   | Define the terms: hardware, software, peripheral, network, human resources.                                                                                                    |
 | 1.2.2                   | Describe the roles that a computer can take in a networked world.                                                                                                              |
 | 1.2.3                   | Discuss the social and ethical issues associated with a networked world.                                                                                                       |
@@ -42,7 +42,7 @@
 | 1.2.15                  | Identify a range of usability problems that can occur in a system.                                                                                                             |
 | 1.2.16                  | Discuss the moral, ethical, social, economic and environmental implications of the interaction between humans and machines.                                                    |
 | **Topic**                   | **Computer organization (6 hours)**                                                                                                                                              |
-| 2.1                     | Computer organization and architecture (6 hours)                                                                                                                                                |
+| 2.1                     | **Computer organization and architecture (6 hours)**                                                                                                                                                |
 | 2.1.1                   | Outline the architecture of the central processing unit (CPU) and the functions of the arithmetic logic unit (ALU) and the control unit (CU) and the registers within the CPU. |
 | 2.1.2                   | Describe primary memory.                                                                                                                                                       |
 | 2.1.3                   | Explain the use of cache memory.                                                                                                                                               |
