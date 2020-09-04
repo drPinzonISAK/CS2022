@@ -8,3 +8,14 @@ There is a hardware store in Karuizawa. This store is quite old, Like 1000 years
 ### Justification of the solution
 ***Here we will write the design statement: what we will do, how, by when***
 
+## Development
+
+First test of text based menu:
+
+```.py
+welcome_msg = "Welcome to Sakamoto's store"
+
+print(welcome_msg)
+print("This is the menu")
+print("=" * 20)
+```
