@@ -58,3 +58,22 @@ for index, c in enumerate(counts):
 
 
 ```
+
+Program to calculate the taxes: The program below uses pattern recognition to simplify the calculation of the taxes according to the table below
+
+Table 1. Calculation of taxes based on the total
+| Rate | Bill total          |
+|------|---------------------|
+| 5%   | >1000 BTC           |
+| 10%  | 750 < total <= 1000 |
+| 15%  | 500 < total <= 750  |
+| 20%  | 250 < total <= 500  |
+| 25%  | 0 < total <= 250    |
+```.py
+for n in [0,1,2,3]:
+    if 250*n < total <= 250*n + 250:
+        tax = 0.25 - 0.05 * n
+    if total > 1000:
+        tax = 0.05
+
+```
