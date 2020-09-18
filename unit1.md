@@ -19,6 +19,14 @@ T.E.L.O.S study:
 1. The application should allow to calcualte the total and billing
 1. Secure application: It allows user login/autenthication 
 
+## Criteria B: Planning
+
+### Record of Tasks
+| Task No | Planned Action                                                                                           | Planned Outcome                       | Time Estimated | Target Completion date | Criterion |
+|---------|----------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|------------------------|-----------|
+| 1       | Planning: Discuss the context of the situation. ( Ideally this is the first interview with your client)  | Write the context of the problem      | 15 min         | Sep 11th               | A         |
+| 2       | Development: Coded the a text-based menu system for some parts in the hardware store                     | A working program that shows the menu | 80 min         | Sep 18th               | D         |
+|         |                                                                                                          |                                       |                |                        |           |
 
 ## Criteria C: Development
 
@@ -77,3 +85,8 @@ for n in [0,1,2,3]:
         tax = 0.05
 
 ```
+
+## Cirteria D: Functionality
+ This is a video. 
+
+## Criteria E: Evaluation
