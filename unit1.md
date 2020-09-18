@@ -19,7 +19,11 @@ T.E.L.O.S study:
 1. The application should allow to calcualte the total and billing
 1. Secure application: It allows user login/autenthication 
 
-## Criteria B: Planning
+## Criteria B: Design
+
+### System diagram
+
+### Flow diagram
 
 ### Record of Tasks
 | Task No | Planned Action                                                                                           | Planned Outcome                       | Time Estimated | Target Completion date | Criterion |
