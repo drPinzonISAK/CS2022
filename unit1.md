@@ -1,5 +1,5 @@
 # Unit 1: An Electronic Hardware Store
-![](Onlinegroceries.gif)
+![](OnlineGroceries.gif)
 
 ## Criteria A: Planning 
 
