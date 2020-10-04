@@ -1,4 +1,4 @@
-# Unit 1: A electronic hardware store
+# Unit 1: An Electronic Hardware Store
 
 ## Criteria A: Planning 
 
