@@ -17,13 +17,18 @@ T.E.L.O.S study:
 1. Provides clear feedback to the user (Usability)
 1. **There are no bugs in the application**
 1. The application should allow to calcualte the total and billing
-1. Secure application: It allows user login/autenthication 
+1. Secure application: importan information is encrypted
 
 ## Criteria B: Design
 
 ### System diagram
 
 ### Flow diagram
+
+### Test Plan
+|Test No | Procedure | Inputs | Expected Output | Success Criteria |
+|--------|-----------|--------|-----------------|------------------|
+|    1   | Secure application: Critical information is kept in an encryted file.  | an uncrypted database file | encrypted file | 4|
 
 ### Record of Tasks
 | Task No | Planned Action                                                                                           | Planned Outcome                       | Time Estimated | Target Completion date | Criterion |
