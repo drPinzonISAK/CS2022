@@ -1,4 +1,4 @@
-![](Welcome%20to%20CS.png)
+![](typing.gif)
 
 ## UWC ISAK COMPUTER SCIENCE 2020
 Welcome! 
